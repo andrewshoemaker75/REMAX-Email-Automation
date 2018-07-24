@@ -1,4 +1,9 @@
-# REMAX-Email-Automation
-1. What is this for?
-    -Created to automate the daily emails that are sent for a major client 
-    -Information omitted for security purposes due to not having private permissions on github account 
+# REMAX EMAIL AUTOMATION SCRIPT
+
+## What is this for?
+
+Execution of this Python script, sends an email notification that informs a major client that a required task has been completed.
+
+### Anything else that I should know?
+
+These emails are to be sent daily, by COB (~4pm EST). Information such as logins/email addresses/URLs have been ommitted for security purposes (and not having the $ for a Github account w/ private permissions). 
