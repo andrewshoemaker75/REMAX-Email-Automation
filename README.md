@@ -10,5 +10,5 @@ These emails are to be sent daily, by COB (~4pm EST). Information such as logins
 
 #### Development
 
-[ ] Integration into GUI 
-[ ] Migration to Centralized Location for Widspread Usage (AWS EC2 Instance)  
+* [ ] Integration into GUI 
+* [ ] Migration to Centralized Location for Widspread Usage (AWS EC2 Instance)  
